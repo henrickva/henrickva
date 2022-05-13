@@ -1,4 +1,5 @@
-### Oooi 👋
+### Olá, meu nome é Henrick, sou graduando em engenharia elétrica na UNIFEI.
+Iniciante em desenvolvimento Front-End em busca desenvolver novas habilidades e melhorar as minhas atuais.
 ##
 <div>
 <a href="https://github.com/henrickva/github-readme-stats">
