@@ -1,5 +1,5 @@
-### Olá, meu nome é Henrick, sou graduando em engenharia elétrica na UNIFEI.
-Iniciante em desenvolvimento Front-End em busca desenvolver novas habilidades e melhorar as minhas atuais.
+###
+Front-End Developer for more than 1 year, I aim to further expand my knowledge and skills with React, and along with my UI/UX notions, I seek to establish what brought me to Programming, to make the internet an easier and more accessible tool for everyone.
 ##
 <div>
 <a href="https://github.com/henrickva/github-readme-stats">
